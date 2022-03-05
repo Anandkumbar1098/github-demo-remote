@@ -1,6 +1,6 @@
 #Add  implementation
 def add(x,y):
-    pass 
+    return x+y          # added on Bug123 for scenerio 1 
 
 #Substract  implementation
 def substract(x,y):
